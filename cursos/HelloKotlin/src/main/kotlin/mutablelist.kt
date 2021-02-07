@@ -32,7 +32,7 @@ fun main(args: Array<String>){
         println("1- Cadastrar funcionario")
         println("2- Listar todos funcionarios")
         println("3- Remover funcionario")
-        println("Digite qualquer opção para SAIR")
+        println("Digite qualquer outra opção para SAIR")
         println("Selecione uma opção")
         var op = readLine()
         when(op){
