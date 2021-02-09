@@ -12,12 +12,14 @@
         android:text="Tela de login!"/>
 
     <EditText
+        android:id="@+id/user"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Nome do usuario aqui"
         />
 
     <Button
+        android:id="@+id/btn_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Clique aqui"/>
