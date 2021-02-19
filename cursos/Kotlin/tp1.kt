@@ -22,3 +22,12 @@ fun main(args: Array<String>) {
 
 }
 
+/*3. Faça um programa que exibe o maior elemento de uma lista. Teste nas listas de
+teste.*/
+fun main(args: Array<String>) {
+    val lista =  triangulo
+
+    println(lista.max());
+}
+
+
